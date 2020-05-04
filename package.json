@@ -1,0 +1,29 @@
+{
+  "name": "next-blog",
+  "version": "1.0.0",
+  "description": "Simple example blog: Next.js + MaterialUI + md-posts",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vadx/next-blog.git"
+  },
+  "author": "Vadx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vadx/next-blog/issues"
+  },
+  "homepage": "https://github.com/Vadx/next-blog#readme",
+  "dependencies": {
+    "@material-ui/core": "^4.9.13",
+    "next": "^9.3.6",
+    "prop-types": "^15.7.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
